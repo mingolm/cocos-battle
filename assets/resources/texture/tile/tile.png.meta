@@ -1,0 +1,75 @@
+{
+  "ver": "1.0.23",
+  "importer": "image",
+  "imported": true,
+  "uuid": "b2612a55-d2ad-47a0-a34d-517bcbd2386c",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "b2612a55-d2ad-47a0-a34d-517bcbd2386c@6c48a",
+      "displayName": "tile",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "b2612a55-d2ad-47a0-a34d-517bcbd2386c",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "b2612a55-d2ad-47a0-a34d-517bcbd2386c@f9941",
+      "displayName": "tile",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 1920,
+        "height": 1600,
+        "rawWidth": 1920,
+        "rawHeight": 1600,
+        "borderTop": 60,
+        "borderBottom": 60,
+        "borderLeft": 60,
+        "borderRight": 60,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b2612a55-d2ad-47a0-a34d-517bcbd2386c@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "hasAlpha": true,
+    "redirect": "b2612a55-d2ad-47a0-a34d-517bcbd2386c@f9941",
+    "fixAlphaTransparencyArtifacts": false
+  }
+}
