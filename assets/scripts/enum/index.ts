@@ -35,3 +35,18 @@ export enum DIRECTION_ENUM {
   TURNLEFT = 'TURNLEFT',
   TURNRIGHT = 'TURNRIGHT',
 }
+
+/**
+ * 状态机类型
+ */
+export enum FSM_PARAMS_TYPE_ENUM {
+  TRIGGER = 'TRIGGER',
+}
+
+/**
+ * 
+ */
+export enum PARAMS_NAME_ENUM {
+  IDLE = 'IDLE',
+  TURNLEFT = 'TURNLEFT'
+}
